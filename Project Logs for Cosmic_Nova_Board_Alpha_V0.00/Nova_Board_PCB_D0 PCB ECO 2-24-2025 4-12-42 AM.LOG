@@ -1,0 +1,14 @@
+Added Component: Designator=UESD(USBLC6-2SC6_Footprint)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "JLCPCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://jlcpcb.com/partdetail/Stmicroelectronics-USBLC62SC6/C7519"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C7519"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_DP Pin=UESD-1
+Added Pin To Net: NetName=GND Pin=UESD-2
+Added Pin To Net: NetName=USB_DN Pin=UESD-3
+Added Pin To Net: NetName=DF_N Pin=UESD-4
+Added Pin To Net: NetName=VBUS Pin=UESD-5
+Added Pin To Net: NetName=DF_P Pin=UESD-6
+Added Member To Class: ClassName=U_Cosmolink_Sheet Member=Component UESD USBLC6-2SC6 

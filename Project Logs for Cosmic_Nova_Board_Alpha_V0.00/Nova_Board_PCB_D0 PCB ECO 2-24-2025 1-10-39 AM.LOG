@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NOVA_SWO Pin=PHT1-1
+Removed Pin From Net: NetName=NOVA_SWO Pin=PHT1-1
+Removed Pin From Net: NetName=NOVA_SWCLK Pin=PHT1-2
+Removed Pin From Net: NetName=NOVA_SWCLK Pin=PHT1-2
+Removed Pin From Net: NetName=NOVA_SWDIO Pin=PHT1-3
+Removed Pin From Net: NetName=NOVA_SWDIO Pin=PHT1-3
+Removed Member From Class: ClassName=Nova_Board_Sheet Member=PHT1
+Added Pin To Net: NetName=+5 Pin=C22-1
+Added Pin To Net: NetName=+5 Pin=FB2-2
+Added Pin To Net: NetName=NOVA_SWDIO Pin=R7-2
+Added Pin To Net: NetName=NOVA_SWCLK Pin=STM1-26
+Added Pin To Net: NetName=NOVA_SWDIO Pin=STM1-27
+Added Pin To Net: NetName=NOVA_SWO Pin=STM1-31
+Change Net Name : Old Net Name=VDD_DECP New Net Name=NOVA_3V3
+Added Room: Name=Nova_Board_Sheet
+Added Room: Name=U_Cosmolink_Sheet

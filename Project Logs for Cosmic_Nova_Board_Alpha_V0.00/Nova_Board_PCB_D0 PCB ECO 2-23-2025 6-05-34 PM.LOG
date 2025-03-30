@@ -1,0 +1,21 @@
+Added Component: Designator=TPB1(TP1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TPD1(TP4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NOVA_SWO Pin=PHT1-1
+Added Pin To Net: NetName=NOVA_SWO Pin=PHT1-1
+Added Pin To Net: NetName=NOVA_SWCLK Pin=PHT1-2
+Added Pin To Net: NetName=NOVA_SWCLK Pin=PHT1-2
+Added Pin To Net: NetName=NOVA_SWDIO Pin=PHT1-3
+Added Pin To Net: NetName=NOVA_SWDIO Pin=PHT1-3
+Added Pin To Net: NetName=+5 Pin=PHT1-4
+Added Pin To Net: NetName=+5 Pin=PHT1-4
+Added Pin To Net: NetName=NetR4_2 Pin=TPB1-1
+Added Pin To Net: NetName=+3V3 Pin=TPD1-1
+Added Pin To Net: NetName=DIO Pin=TPD1-2
+Added Pin To Net: NetName=CLK Pin=TPD1-3
+Added Pin To Net: NetName=GND Pin=TPD1-4
+Added Member To Class: ClassName=U_Cosmolink_Sheet Member=Component TPB1 TP_1
+Added Member To Class: ClassName=U_Cosmolink_Sheet Member=Component TPD1 TP_4
+Added Room: Name=Nova_Board_Sheet
+Added Room: Name=U_Cosmolink_Sheet

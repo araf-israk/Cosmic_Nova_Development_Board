@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=T_SWO Pin=PHT1-1
+Added Pin To Net: NetName=T_SWO Pin=PHT1-1
+Added Pin To Net: NetName=T_CLK Pin=PHT1-2
+Added Pin To Net: NetName=T_CLK Pin=PHT1-2
+Added Pin To Net: NetName=T_DIO Pin=PHT1-3
+Added Pin To Net: NetName=T_DIO Pin=PHT1-3
+Added Pin To Net: NetName=CLINK_5V_IN Pin=PHT1-4
+Added Pin To Net: NetName=CLINK_5V_IN Pin=PHT1-4
+Added Room: Name=Nova_Board_Sheet
+Added Room: Name=U_Cosmolink_Sheet

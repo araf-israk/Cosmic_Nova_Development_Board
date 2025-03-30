@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Cosmic_Nova_Board_Alpha_V0.00.PrjPcb]
+   Generated File[Pick Place for Nova_Board_PCB_D0.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:43:27 AM On 2/25/2025
